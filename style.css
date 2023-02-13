@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;600;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;800&display=swap');
+
+
+.navbar {
+    background-color:#88aed0;
+}
+
+.navbar-text {
+    width: 100%;
+    left: 0;
+    top: 0;
+    text-align: center;
+    color:white;
+    font-family: 'Lora', serif;
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.head {
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 40px;
+    font-family: 'Lora', serif;
+    font-weight: 600;
+}
+
+.sent {
+    text-align:center;
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    padding-top: 25px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.card1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    width: 85%;
+    border-radius: 12px;
+}
+    
+.card2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 25px;
+    width: 85%;
+    border-radius: 12px;
+}
+
+.card3 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 25px;
+    width: 85%;
+    border-radius: 12px;
+}
+
+.card4 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 25px;
+    width: 85%;
+    border-radius: 12px;
+}
+
+.card5 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 25px;
+    width: 85%;
+    border-radius: 12px;
+}
+
+.card6 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 25px;
+    width: 85%;
+    border-radius: 12px;
+}
+
+.card7 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 25px;
+    width: 85%;
+    border-radius: 12px;
+}
+
+.card8 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 25px;
+    width: 85%;
+    border-radius: 12px;
+}
+
+.card9 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 25px;
+    width: 85%;
+    border-radius: 12px;
+}
+
+.card10 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 25px;
+    width: 85%;
+    border-radius: 12px;
+}
+
+.card11 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 25px;
+    width: 85%;
+    border-radius: 12px;
+}
+
+.meme {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 25px;
+    width: 85%;
+    border-radius: 12px;
+}
